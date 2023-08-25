@@ -4,7 +4,7 @@ type: project
 image: img/Apple.jpg
 title: "Apple"
 date: 2023
-published: true
+published: false
 labels:
   - Relaxing
   - React
