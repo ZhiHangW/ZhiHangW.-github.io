@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/apple.jpg
+image: img/Apple.jpg
 title: "Apple"
 date: 2023
 published: true
